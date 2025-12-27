@@ -7,6 +7,6 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    <div class="p-5 " >Hello word</div>
+    <div class="p-5 " >Hello word test update from accrodev to day 27/12</div>
 </body>
 </html>
