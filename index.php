@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Connexion et inscription </title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='bootstrap.css'>
-    <link rel='stylesheet' type='text/css' media='screen' href='all.min.css'>
-    <link rel='stylesheet' type='text/css' media='screen' href='styles.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/bootstrap.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/all.min.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/styles.css'>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-light">
@@ -38,7 +38,7 @@
                         <button type="button" class="btn btn-success">Se connecter</button>
                        
                         <p class="text-center">
-                              vous n'avez pas de compte ?<a href="index.html"> Inscription </a>
+                              vous n'avez pas de compte ?<a href="connexion.php"> Inscription </a>
                         </p>
                     </div>
                 </form>
